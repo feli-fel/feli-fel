@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I'm Felika 👋
+
+## About Me
+I'm currently an empoyed UI/UX Designer who is currently learning Front-End Development. 
+I have a vision to be able to build 3D interactive website with immersive experiences.
+This github was created to document my growth process. 
+
+## Skills Stack
+- UI/UX Design
+- 3D
+- Html CSS, Javascript
+
+## What I'm Working On
+I'm currently pursuing a Front-End Developer Certificate from Scrimba.
 
 <!--
 **feli-fel/feli-fel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
