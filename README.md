@@ -5,7 +5,7 @@ I'm a UI/UX Designer who is currently learning Front-End Development.
 I have a vision to be able to build 3D interactive website with immersive experiences.
 This github was created to document my growth process. 
 
-## 🛠 Skills Stack
+## ✨ Skills Stack
 - UI/UX Design
 - 3D
 - Html CSS, Javascript
