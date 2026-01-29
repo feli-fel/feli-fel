@@ -1,19 +1,19 @@
 ## Hi, I'm Felika 👋
 
-## About Me
-I'm currently an empoyed UI/UX Designer who is currently learning Front-End Development. 
+## 🙋‍♀️About Me
+I'm a UI/UX Designer who is currently learning Front-End Development. 
 I have a vision to be able to build 3D interactive website with immersive experiences.
 This github was created to document my growth process. 
 
-## Skills Stack
+## 🛠 Skills Stack
 - UI/UX Design
 - 3D
 - Html CSS, Javascript
 
-## What I'm Working On
+## ✨ What I'm Working On
 I'm currently pursuing a Front-End Developer Certificate from Scrimba.
 
-## A Little About Me
+## ✨ A Little About Me
 I enjoy looking through meme, and I love reading & watching actions anime. My current favorite is Solo Levelling, Kaiju no.8, Nano Machine and more...
 
 <!--
