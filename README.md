@@ -8,7 +8,7 @@ This github was created to document my growth process.
 ## ✨ Skills Stack
 - UI/UX Design
 - 3D
-- Html CSS, Javascript
+- HTML CSS, Javascript
 
 ## ✨ What I'm Working On
 I'm currently pursuing a Front-End Developer Certificate from Scrimba.
