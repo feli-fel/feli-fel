@@ -9,6 +9,7 @@ This github was created to document my growth process.
 - UI/UX Design
 - 3D
 - HTML CSS, Javascript
+- React
 
 ## ✨ What I'm Working On
 I'm currently pursuing a Front-End Developer Certificate from Scrimba.
